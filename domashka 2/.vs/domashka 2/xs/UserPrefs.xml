@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D15355CC-4065-5B3E-7116-AC4BF2E1599F}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="98a8e0f3-ff38-4daa-9c84-29b750cb21ce" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/collision.cs">
+    <Files>
+      <File FileName="Assets/collision.cs" Line="16" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="domashka 2" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
